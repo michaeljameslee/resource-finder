@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "name": "Helping Hands",
+      "id": 1,
+      "description": "Cold-pressed portland mixtape, chia try-hard typewriter scenester chambray humblebrag YOLO ethical everyday carry seitan raw denim. Quinoa organic art party, schlitz farm-to-table scenester drinking vinegar master cleanse actually sartorial semiotics vegan helvetica cornhole.",
+      "image": "image.jpg",
+      "topics": [2, 3]
+    },
+    {
+      "name": "Knowing When to Stop Teaching",
+      "id": 2,
+      "description": "Cold-pressed portland mixtape, chia try-hard typewriter scenester chambray humblebrag YOLO ethical everyday carry seitan raw denim. Quinoa organic art party, schlitz farm-to-table scenester drinking vinegar master cleanse actually sartorial semiotics vegan helvetica cornhole.",
+      "image": "image.jpg",
+      "topics": [2]
+    },
+    {
+      "name": "We Are in This Together",
+      "id": 3,
+      "description": "Cold-pressed portland mixtape, chia try-hard typewriter scenester chambray humblebrag YOLO ethical everyday carry seitan raw denim. Quinoa organic art party, schlitz farm-to-table scenester drinking vinegar master cleanse actually sartorial semiotics vegan helvetica cornhole.",
+      "image": "image.jpg",
+      "topics": [3]
+    }
+  ]
+}
